@@ -1,6 +1,6 @@
-# CLI utility for solving substitution cyphers
+# CLI utility for solving substitution ciphers
 
-Created for a homework task in IT security to decode a text encoded with a substitution cypher.
+Created for a homework task in IT security to decode a text encoded with a substitution cipher.
 
 ## Usage
 
