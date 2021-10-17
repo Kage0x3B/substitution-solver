@@ -1,0 +1,13 @@
+{
+  "singleQuote": true,
+  "printWidth": 160,
+  "proseWrap": "always",
+  "tabWidth": 4,
+  "useTabs": false,
+  "trailingComma": "none",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "svelteBracketNewLine": false,
+  "semi": true,
+  "plugins": ["prettier-plugin-svelte"]
+}

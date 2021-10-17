@@ -1,0 +1,24 @@
+{
+  "name": "substitution-solver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "ts-node --transpile-only src/main.ts"
+  },
+  "author": "Moritz Hein",
+  "license": "ISC",
+  "dependencies": {
+    "key-events": "^0.1.1",
+    "readline": "^1.3.0",
+    "terminal-kit": "^2.1.8",
+    "ts-node": "^10.3.0",
+    "tty-table": "^4.1.5",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.1",
+    "@types/terminal-kit": "^1.28.4",
+    "prettier": "^2.4.1"
+  }
+}
